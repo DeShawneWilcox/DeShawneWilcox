@@ -1,0 +1,317 @@
+.navbar-brand {
+    font-family: 'Press Start 2P', cursive;
+}
+.navbar-nav {
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+
+#gHlI {
+    size: small;
+}
+.portfolioTitle {
+    position: absolute;
+    bottom: 55%;
+    left: 10%;
+    z-index: 20;
+    color: whitesmoke;
+    text-shadow: 0 7px 4px rgba(0,0,0,.6);
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+#gotoLI {
+    position: absolute;
+    bottom: 15%;
+    left: 15%;
+    z-index: 20;
+
+}
+
+#gotoGH {
+    position: absolute;
+    bottom: 15%;
+    left: 25%;
+    z-index: 20;
+
+}
+
+/* #about {
+    margin: 2em;
+} */
+
+.aboutMe {
+    padding-top: 5em;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.quote {
+    padding-top: .5em;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    padding-top: 4em;
+}
+
+.abtMeText {
+    padding-top: 1em;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 5em;
+}
+
+.text {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+    margin: 2em;
+    padding-bottom: 2em;
+    
+    
+
+}
+
+
+.aboutCont {
+    display: inline-flex;
+    justify-content: center;
+    margin: 2em;
+    padding: 2em;
+
+}
+/* .motivationsSection {
+    margin: 2em;
+    padding-top: 7em;
+
+
+} */
+
+.motivations {
+    padding-top: 7em;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    
+}
+
+
+
+/* .interestsSection {
+    margin: 2em;
+
+
+} */
+
+.interests {
+    padding-top: 7em;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif
+}
+
+
+/* 
+.goalsSection {
+    margin: 2em;
+
+} */
+
+.goals {
+    padding-top: 7em;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif
+    
+}
+
+
+   
+/* #skills. {
+    display: flexbox;
+} */
+
+.skills-title {
+    text-align: center;
+    padding-top: 8em;
+    padding-bottom: 5em;
+}
+
+/* .badges {
+    display: inline-flex;
+    margin: 2em;
+} */
+
+/* .htmlBadge {
+    size: 7px;
+
+} */
+
+.col-md {
+    display: flexbox;
+}
+
+/* 
+.fab fa-js-square {
+    margin: 2em;
+    padding: 1em;
+
+}
+
+.fab fa-css3-alt {
+    margin: 1em;
+}
+
+.fab fa-node-js {
+    margin: 1em;
+}
+
+.fab fa-github-square {
+    margin: 1em;
+}
+
+.fab fa-bootstrap {
+    margin: 1em;
+}
+
+.fab fa-codepen {
+    margin: 1em;
+} */
+
+.experience {
+    justify-content: center;
+    
+
+}
+
+.experienceHeader {
+    text-align: center;
+    padding-top: 10em;
+    padding-bottom: .5em;
+}
+
+.experienceText {
+    text-align: center;
+    margin: 4em;
+    /* padding-top: 1em; */
+    font-size: 40px;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+
+.projects {
+    justify-content: center;
+}
+
+.projects {
+    text-align: center;
+    padding-top: 10em;
+    padding-bottom: 2em;
+   
+}
+
+.projectOne {
+    opacity: 0.5;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 2em;
+    padding: 2em
+    
+}
+
+.projectOne:hover {
+    opacity: 1.0;
+}
+.projectTwo {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 2em;
+    padding: 2em;
+    opacity: 0.5;
+
+}
+.projectTwo:hover {
+    opacity: 1.0;
+}
+
+.projectThree {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 2em;
+    padding: 2em;
+    opacity: 0.5;
+
+}
+
+.projectThree:hover {
+    opacity: 1.0;
+}
+
+.projectFour {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 2em;
+    padding: 2em;
+    opacity: 0.5;
+    
+
+}
+
+.projectFour:hover {
+    opacity: 1.0;
+}
+
+
+
+.contactStyle {
+    
+    display: block;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    justify-items: center;
+    align-items: center;
+    max-width: 20em;
+
+}
+
+.contactText {
+    text-align: center;
+    padding-bottom: 2em;
+
+}
+
+
+label {
+    margin-left: 45em;
+    max-width: 20em;
+    display: inline-block
+}
+
+.emailField {
+    max-width: 80em;
+}
+
+.nameField{
+    max-width: 80em;
+
+}
+
+#footer {
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 25px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.emailBtn {
+    margin-bottom: 2em;
+    margin-left: 45em;
+    display: block;
+    border-radius: 20px;
+}
